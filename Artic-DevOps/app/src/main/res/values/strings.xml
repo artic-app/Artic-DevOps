@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Artic-DevOps</string>
+
+    <string-array name="release_versions">
+        <item>All the best</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

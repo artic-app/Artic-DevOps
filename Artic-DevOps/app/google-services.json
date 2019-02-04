@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1076131566963",
+    "firebase_url": "https://artic-devops-22269.firebaseio.com",
+    "project_id": "artic-devops-22269",
+    "storage_bucket": "artic-devops-22269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076131566963:android:9f731b30a3f6c525",
+        "android_client_info": {
+          "package_name": "dev.edmt.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076131566963-9r3b4b70bo6b05nsp2n2hqo31his7mqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8filjfyDDC7jZ7PKS39g8-nuqapTKby4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
